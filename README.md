@@ -1,7 +1,7 @@
 # Area_of_a_Rectangle_
-We are calculating area of a rectangle with Java programming .
+// We are calculating area of a rectangle with Java programming .
 public class Main {
-  public static void main(String[] args) {
+  public static void main(String[] args) { // main method is defining 
     // Create integer variables
     int length = 4;
     int width = 6;
